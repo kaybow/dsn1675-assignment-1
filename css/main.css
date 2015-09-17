@@ -42,6 +42,7 @@ nav a {
 	color: white;
 	display: inline-block;
 	text-align: center;
+	width: 100%;
 	color: #fff;
 	text-decoration: none;
 }
@@ -58,8 +59,13 @@ img {
 	width: 100%;
 }
 
-h2, h3 {
+h2 {
 	text-align: center;
+	font-size: 2.5em;
+}
+
+h3 {
+	font-size: 2em;
 }
 
 .sevenwonders {
