@@ -18,6 +18,11 @@ header {
 	text-align: center;
 }
 
+nav {
+	text-align: center;
+	height: 55px;
+}
+
 nav li {
 	margin:0;
 	float: left;
@@ -25,3 +30,8 @@ nav li {
 	display: inline-block;
 }
 
+nav a {
+color: white;
+display: block;
+background-color: grey;
+}
