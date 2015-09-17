@@ -71,6 +71,7 @@ h2, h3 {
 .headline {
 	position: absolute;
 	text-align: center;
+	width: 100%;
 	bottom: 15em;
 	color: #fff;
 }
