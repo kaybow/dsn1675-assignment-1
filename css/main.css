@@ -31,11 +31,14 @@ nav li {
 	display: inline-block;
 }
 
+.headnav {
+	background-color: grey;
+}
+
 nav a {
-color: white;
-display: block;
-background-color: grey;
-text-align: center;
+	color: white;
+	display: block;
+	text-align: center;
 }
 
 h1 {
