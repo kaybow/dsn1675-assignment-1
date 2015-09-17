@@ -13,6 +13,11 @@ body {
   padding: 0;
 }
 
+header {
+	padding-top: 0;
+	text-align: center;
+}
+
 nav li {
 	margin:0;
 	float: left;
@@ -20,7 +25,3 @@ nav li {
 	display: inline-block;
 }
 
-header {
-	padding-top: 0;
-	text-align: center;
-}
