@@ -77,6 +77,11 @@ dl {
 	margin: 2em;
 }
 
+p {
+	text-align: center;
+	margin: 0 auto;
+}
+
 .sevenwonders {
 	position: relative;
 	margin: 0;
@@ -123,6 +128,7 @@ dl {
 .price a, .tele a {
 	width: 50%;
 	float: left;
+	text-align: center;
 }
 
 .atlantis {
