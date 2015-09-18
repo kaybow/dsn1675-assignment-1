@@ -68,6 +68,10 @@ h3 {
 	font-size: 2em;
 }
 
+dd {
+	margin: 0;
+}
+
 .sevenwonders {
 	position: relative;
 	margin: 0;
