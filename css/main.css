@@ -66,7 +66,7 @@ h2 {
 
 h3 {
 	font-size: 2em;
-	margin: 1.5em;
+	margin: 1em;
 }
 
 dd {
@@ -75,6 +75,10 @@ dd {
 
 dl {
 	margin: 2em;
+}
+
+ol {
+	text-decoration: none;
 }
 
 .sevenwonders {
@@ -96,7 +100,7 @@ dl {
 }
 
 .giza, .babylon, .artemis, .zeus, .mausoleum, .rhodes, .alex {
-	margin: 3em;
+	margin: 2em;
 }
 
 .one, .two, .three {
@@ -104,3 +108,17 @@ dl {
 	width: 33.3%;
 }
 
+.learn {
+	width: 50%;
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.footerlinks a {
+	text-decoration: none;
+}
+
+.footerlinks {
+	list-style-type: none;
+}
