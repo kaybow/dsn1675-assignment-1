@@ -77,10 +77,6 @@ dl {
 	margin: 2em;
 }
 
-ol {
-	text-decoration: none;
-}
-
 .sevenwonders {
 	position: relative;
 	margin: 0;
@@ -91,7 +87,7 @@ ol {
 	position: absolute;
 	text-align: center;
 	width: 100%;
-	bottom: 15em;
+	bottom: 3em;
 	color: #fff;
 }
 
@@ -111,14 +107,34 @@ ol {
 .learn {
 	width: 50%;
 	text-align: center;
-	display: inline-block;
+	display: block;
+	text-decoration: none;
+	margin: 0 auto;
+}
+
+.footerlinks a, .price a {
 	text-decoration: none;
 }
 
-.footerlinks a {
-	text-decoration: none;
-}
-
-.footerlinks {
+.footerlinks, .price, .tele {
 	list-style-type: none;
+}
+
+.price a, .tele a {
+	width: 50%;
+	float: left;
+}
+
+.atlantis {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+.atltext {
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	bottom: 3em;
+	color: #fff;
 }
