@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-
   font-family: 'Helvetica';
 }
 
@@ -190,6 +189,10 @@ a {
 	right: 3em;
 }
 
-.add {
-	text-align: left;
+.logo {
+	width: 10%;
+	position: absolute;
+	bottom: 8em;
+	left: 5em;
 }
+
