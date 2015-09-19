@@ -85,6 +85,7 @@ p {
 
 footer {
 	background-color: grey;
+	color: #fff;
 }
 
 a {
@@ -179,11 +180,16 @@ a {
 }
 
 .buy {
-	color: #fff;
+	color: black;
+	background-color: #fff;
 	font-size: 2em;
 	border: 2px solid black;
 	padding: .25em;
 	position: absolute;
 	bottom: 4em;
 	right: 3em;
+}
+
+.add {
+	text-align: left;
 }
