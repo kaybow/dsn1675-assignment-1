@@ -17,6 +17,7 @@ header {
 	padding-top: 0;
 	text-align: center;
 	background-color: grey;
+	position: relative;
 }
 
 nav {
@@ -183,5 +184,9 @@ a {
 .buy {
 	color: #fff;
 	font-size: 2em;
-	border: 1.5px solid black;
+	border: 2px solid black;
+	padding: .25em;
+	position: absolute;
+	bottom: 4em;
+	right: 3em;
 }
