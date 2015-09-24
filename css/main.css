@@ -19,8 +19,32 @@ font-family: 'Helvetica';
 
 @media only screen and (min-width: 45em) {
 
-
+.image1, .image2{
+	width: 50%;
+	margin: 0;
 }
+
+.image1 {
+	float: left;
+}
+
+.image2 {
+	float: right;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.blah {
+	clear: both;
+}
+}
+
 
 @media only screen and (min-width: 70em) {
 
@@ -220,3 +244,5 @@ a {
 .museumof {
 	padding: 0;
 }
+
+
