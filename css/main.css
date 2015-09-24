@@ -17,6 +17,10 @@ font-family: 'Helvetica';
   box-sizing: inherit;
 }
 
+@media only screen and (min-width: 45em) {
+
+@media only screen and (min-width: 70em) {
+
 body {
   margin: 0;
   padding: 0;
