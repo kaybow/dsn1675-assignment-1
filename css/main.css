@@ -85,6 +85,8 @@ p {
 footer {
 	background-color: grey;
 	color: #fff;
+	overflow: hidden;
+	width: 100%;
 }
 
 a {
@@ -196,3 +198,6 @@ a {
 	left: 5em;
 }
 
+.museumof {
+	padding: 0;
+}
