@@ -19,14 +19,11 @@ font-family: 'Helvetica';
 
 @media only screen and (min-width: 45em) {
 
-	body{
-		background-color: orange;
-}
-}
 
+}
 
 @media only screen and (min-width: 70em) {
-		body{
+
 }
 
 body {
@@ -134,7 +131,7 @@ a {
 	font-size: 1.75em;
 }
 
-.giza, .babylon, .artemis, .zeus, .mausoleum, .rhodes, .alex {
+.image1, .image2 {
 	margin: 2em;
 }
 
