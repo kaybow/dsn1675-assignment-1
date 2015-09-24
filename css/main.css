@@ -19,7 +19,15 @@ font-family: 'Helvetica';
 
 @media only screen and (min-width: 45em) {
 
+	body{
+		background-color: orange;
+}
+}
+
+
 @media only screen and (min-width: 70em) {
+		body{
+}
 
 body {
   margin: 0;
