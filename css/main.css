@@ -276,14 +276,12 @@ a {
 	width: 100%;
 	margin-bottom: 3em;
 }
-
-.babylon {
-	padding-bottom: 2.5em;
-}
 }
 
 
-@media only screen and (min-width: 70em) {
+@media only screen and (min-width: 39em) {
 
+.learn{
+	width: 50%;
 }
-
+}
