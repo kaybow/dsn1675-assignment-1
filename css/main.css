@@ -17,57 +17,6 @@ font-family: 'Helvetica';
   box-sizing: inherit;
 }
 
-@media only screen and (min-width: 30em) {
-
-
-.image1, .image2 {
-	width: 35%;
-	margin: 0;
-}
-
-.image1, .image2 {
-	float: left;
-}
-
-.image2 {
-	float: right;
-}
-
-.left, .right {
-	margin: 0;
-}
-
-.left {
-	float: left;
-}
-
-.right {
-	float: right;
-	margin: 0;
-}
-
-.bottom {
-	clear: both;
-}
-
-.satsun {
-	float: left;
-	width: 45%;
-	padding-bottom: 1em;
-}
-
-.wed {
-	float: right;
-	width: 45%;
-	padding-bottom: 1em;
-}
-}
-
-
-@media only screen and (min-width: 70em) {
-
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -174,7 +123,7 @@ a {
 }
 
 .image1, .image2 {
-	margin: 2em;
+	padding: 2em;
 }
 
 .one, .two, .three {
@@ -263,4 +212,54 @@ a {
 	padding: 0;
 }
 
+@media only screen and (min-width: 30em) {
+
+
+.image1, .image2 {
+	width: 50%;
+	padding: 0;
+}
+
+.image1, .image2 {
+	float: left;
+}
+
+.image2 {
+	float: right;
+}
+
+.left, .right {
+	margin: 0;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+	margin: 0;
+}
+
+.bottom {
+	clear: both;
+}
+
+.satsun {
+	float: left;
+	width: 45%;
+	padding-bottom: 1em;
+}
+
+.wed {
+	float: right;
+	width: 45%;
+	padding-bottom: 1em;
+}
+}
+
+
+@media only screen and (min-width: 70em) {
+
+}
 
