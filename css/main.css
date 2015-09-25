@@ -20,26 +20,28 @@ font-family: 'Helvetica';
 @media only screen and (min-width: 45em) {
 
 .image1, .image2{
-	width: 40%;
+	width: 35%;
 	margin: 0;
 }
 
 .image1 {
 	float: left;
+	margin: 0;
 }
 
 .image2 {
 	float: right;
+	margin: 0;
 }
 
 .left {
 	float: left;
-	clear: right;
+	margin: 0;
 }
 
 .right {
 	float: right;
-	clear: left;
+	margin: 0;
 }
 
 .blah {
