@@ -17,9 +17,10 @@ font-family: 'Helvetica';
   box-sizing: inherit;
 }
 
-@media only screen and (min-width: 45em) {
+@media only screen and (min-width: 30em) {
 
-.image1, .image2{
+
+.image1, .image2 {
 	width: 35%;
 	margin: 0;
 }
@@ -47,6 +48,18 @@ font-family: 'Helvetica';
 
 .bottom {
 	clear: both;
+}
+
+.satsun {
+	float: left;
+	width: 45%;
+	padding-bottom: 1em;
+}
+
+.wed {
+	float: right;
+	width: 45%;
+	padding-bottom: 1em;
 }
 }
 
