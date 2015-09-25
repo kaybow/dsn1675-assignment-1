@@ -197,15 +197,15 @@ a {
 	border: 2px solid black;
 	padding: .25em;
 	position: absolute;
-	bottom: 4em;
-	right: 3em;
+	bottom: 5em;
+	right: .2em;
 }
 
 .logo {
-	width: 10%;
+	width: 15%;
 	position: absolute;
-	bottom: 8em;
-	left: 5em;
+	bottom: 10em;
+	left: 1.7em;
 }
 
 .museumof {
@@ -264,6 +264,12 @@ a {
 	top: 2em;
 	left: 13em;
 	width: 16%;
+}
+
+.buy {
+	bottom: 2em;
+	left: 6em;
+	width: 20%;
 }
 }
 
