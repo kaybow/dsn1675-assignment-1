@@ -214,6 +214,11 @@ a {
 
 @media only screen and (min-width: 30em) {
 
+	html {
+		font-size: 110%;
+		line-height: 1.4;
+	}
+
 .image1, .image2 {
 	width: 50%;
 	padding: 0;
@@ -276,10 +281,19 @@ a {
 	width: 100%;
 	margin-bottom: 2em;
 }
+
+.alex {
+	width: 100%;
+}
 }
 
 
 @media only screen and (min-width: 39em) {
+
+		html {
+		font-size: 120%;
+		line-height: 1.5;
+	}
 
 .learn{
 	width: 50%;
@@ -287,10 +301,23 @@ a {
 
 .logo {
 	top: 1em;
-	left: 16em;
+	left: 21em;
+	width: 12%;
 }
 
 .buy {
-	left: 8em;
+	left: 10em;
+	width: 15%;
+	padding: 0;
 }
+
+.alex {
+	width: 100%;
+}
+
+@media print {
+
+	nav {
+		display: none;
+	}
 }
