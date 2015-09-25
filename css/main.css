@@ -274,7 +274,7 @@ a {
 
 .learn {
 	width: 100%;
-	margin-bottom: 3em;
+	margin-bottom: 2em;
 }
 }
 
@@ -283,5 +283,14 @@ a {
 
 .learn{
 	width: 50%;
+}
+
+.logo {
+	top: 1em;
+	left: 16em;
+}
+
+.buy {
+	left: 8em;
 }
 }
